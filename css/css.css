@@ -178,8 +178,26 @@ footer {
 }
 
 @media only screen and (max-width: 480px) {
-    header{
+   header{
         width: 100%;
+    }
+    
+    .bgrnd {
+        width: 90%;
+        height: auto;
+        margin-bottom: 3em;
+    }
+    
+    .row {
+        width: auto;
+        margin: auto;
+    }
+    
+    .box{
+        margin: auto;
+        width: 6em;
+        height: 6em;
+        margin: 1em;
     }
     
     footer{
@@ -190,6 +208,24 @@ footer {
 @media only screen and (max-width:320px) {
     header{
         width: 100%;
+    }
+    
+    .bgrnd {
+        width: 90%;
+        height: auto;
+        margin-bottom: 3em;
+    }
+    
+    .row {
+        width: auto;
+        margin: auto;
+    }
+    
+    .box{
+        margin: auto;
+        width: 6em;
+        height: 6em;
+        margin: 1em;
     }
     
     footer{
